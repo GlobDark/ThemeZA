@@ -1,5 +1,5 @@
 html {
-  background-image: url("https://angelillo15.es/resources/img/background.png");
+  background-image: url("https://cdn.discordapp.com/attachments/1024881699307388988/1136767943770902538/1325159.png");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -8,153 +8,190 @@ html {
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
   background-size: cover;
-
 }
 
 div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.grid.grid-cols-6.gap-2.md:gap-4.col-span-4.lg:col-span-1.order-last.lg:order-none {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.style-module_2Vp6MaXq.bg-gray-600 {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.style-module_2XbmHEcn.group {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.w-full.bg-neutral-900.shadow-md.overflow-x-auto {
-  background-color: #1B1C32
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.icon.mr-4 {
-  background-color: #2e2f48;
+  background: rgba(46, 47, 72, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 a.style-module_35MPv1CD.style-module_35MPv1CD.active {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
-
 .style-module_1WqkLT9X {
-  background-color: #1B1C32 !important;
+  background: rgba(27, 28, 50, 0.5) !important;
+  backdrop-filter: bur( 2px ); 
 }
 
 .style-module_1WqkLT9X:hover {
-  background-color: #101122 !important;
+  background: rgba(16, 17, 34, 0.5) !important;
+  backdrop-filter: bur( 2px );
 }
 
 .style-module_35MPv1CD.active {
-  background-color: #1B1C32 !important;
+  background: rgba(27, 28, 50, 0.5) !important;
+  backdrop-filter: bur( 2px ); 
 }
 
 .style-module_35MPv1CD.active:hover {
-  background-color: #101122 !important;
+  background: rgba(27, 28, 50, 0.5) !important;
+  backdrop-filter: bur( 2px );
 }
+
 div.GreyRowBox-sc-1xo9c6v-0.iTERJN.flex-wrap.md:flex-nowrap.mt-2 {
-  background-color: #27283f
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.TitledGreyBox___StyledDiv3-sc-gvsoy-4.fKIIIQ {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 input.Input-sc-19rce1w-0.jqTCDz.cursor-pointer {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.grid.grid-cols-10.py-4.border-b-2.border-gray-800.last:rounded-b.last:border-0.group {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.TitledGreyBox___StyledDiv2-sc-gvsoy-1.jRrWLs {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.SubNavigation-sc-lfuaoi-0.jZPsWO {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.ContentBox___StyledDiv-sc-mjlt6f-2.iGOcRf {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.Modal___StyledDiv2-sc-9vzni8-3.ekHIsr {
-  background-color: #27283f
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 input.peer.style-module_3TDo--Tn {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_Yp7-2Fw-.flex-1 {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.GreyRowBox-sc-1xo9c6v-0.DatabaseRow___StyledGreyRowBox-sc-1t67zwr-13.iTERJN.gkSIus {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 textarea.Input__Textarea-sc-19rce1w-1.kKFWRA {
-  background-color: #333447;
+  background: rgba(51, 52, 71, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.flex.justify-end.space-x-4.mt-4.w-full.md:mt-0.md:w-48 {
-  background-color: #27283f;
+  background: rgba(39, 40, 63, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 select.Select-sc-17exaqp-0.dupyoa {
-  background-color: #1B1C32;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGreyBox-sc-163imy2-1.kRunTE {
-  background-color: #242538;
+  background: rgba(36, 37, 56, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
-  background-image: url("https://angelillo15.es/resources/img/background.png");
+  background-image: url("https://cdn.discordapp.com/attachments/1024881699307388988/1136767943770902538/1325159.png");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -163,33 +200,41 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
-  background-color: #1B1C32
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover {
-  background-color: #101122;
+  background: rgba(27, 28, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.style-module_1DtraXMW.bg-gray-700 {
-  background-color: #2a284d;
+  background: rgba(42, 40, 77, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: #191832;
+  background: rgba(25, 24, 50, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP {
-  background-color: #242538;
+  background: rgba(36, 37, 56, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 div.grid.grid-cols-10.py-4.border-b-2.border-gray-800.last:rounded-b.last:border-0.group {
-  background-color: #242538;
+  background: rgba(36, 37, 56, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 .group {
-  background-color: #242538;
+  background: rgba(36, 37, 56, 0.5);
+  backdrop-filter: bur( 2px );
 }
 
 .GreyRowBox-sc-1xo9c6v-0 {
-  background-color: #242538;
+  background: rgba(36, 37, 56, 0.5);
+  backdrop-filter: bur( 2px );
 }

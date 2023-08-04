@@ -61,6 +61,9 @@ restoreBackUp(){
     sudo php artisan optimize:clear
 }
 echo ""
+echo "This plugin has a Panel restorer by default in case something goes wrong, but for safety, make a backup to avoid regretting losses."
+echo "This plugin must be installed from the root user."
+echo ""
 echo "[1] Install theme"
 echo "[2] Restore backup"
 echo "[3] Repair panel (use if you have an error in the theme installation)"

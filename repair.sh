@@ -34,6 +34,6 @@ while true; do
     case $yn in
         [Yy]* ) repairPanel; break;;
         [Nn]* ) exit;;
-        * ) echo "Please answer yes or no.";;
+        * ) echo "Please answer yes or no..";;
     esac
 done
