@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/GlobDark/ThemeZA/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/GlobDark/ThemeZA/master/repair.sh)
 }
 
 restoreBackUp(){
